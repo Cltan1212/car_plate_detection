@@ -1,0 +1,30 @@
+OCR detection result: 7569 YM
+After optimization: 7569YM   filename: 7569YM.jpg  result: V
+OCR detection result: AKW 6596,
+After optimization: AKW6596   filename: AKW6596.jpg  result: V
+OCR detection result: 9060 J5
+After optimization: 9060J5   filename: 9060J5.jpg  result: V
+OCR detection result: 1923 LM
+After optimization: 1923LM   filename: 1923LM.jpg  result: V
+OCR detection result: 3322 NH
+After optimization: 3322NH   filename: 3322NH.jpg  result: V
+OCR detection result: AKK7771
+After optimization: AKK7771   filename: AKK7771.jpg  result: V
+OCR detection result: AGC 7052
+After optimization: AGC7052   filename: AGC7052.jpg  result: V
+OCR detection result: 0655 VN
+After optimization: 0655VN   filename: 0655VN.jpg  result: V
+OCR detection result: AGK 3379
+After optimization: AGK3379   filename: AGK3379.jpg  result: V
+OCR detection result: AHH 9997
+After optimization: AHH9997   filename: AHH9997.jpg  result: V
+OCR detection result: 1710YC
+After optimization: 1710YC   filename: 1710YC.jpg  result: V
+OCR detection result: 3M 6605
+After optimization: 3M6605   filename: 3M6605.jpg  result: V
+OCR detection result: 6508 ZJ
+After optimization: 6508ZJ   filename: 6508ZJ.jpg  result: V
+OCR detection result: AXN 6501
+After optimization: AXN6501   filename: AXN6051.jpg  result: X
+OCR detection result: ACC 7558
+After optimization: ACC7558   filename: ACC7558.jpg  result: V
